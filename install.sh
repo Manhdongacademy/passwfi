@@ -20,7 +20,7 @@ git clone https://github.com/Manhdongacademy/passwfi.git
 
 echo "=== Di chuyển vào thư mục và thiết lập quyền ==="
 cd passwfi
-chmod +x Manhdongacademy.py
+chmod +x passwifi.py
 
 echo "=== Chạy ứng dụng ==="
 sudo python passwfi.py -i wlan0 -K
